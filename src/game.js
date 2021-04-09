@@ -1,5 +1,4 @@
-export default class Game {
-  
+export default class Game{
   constructor (p1, p2) {
     this.p2 = p2
     this.p2 = p2
